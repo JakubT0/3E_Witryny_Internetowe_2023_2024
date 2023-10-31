@@ -1,0 +1,78 @@
+Zadanie 1 (KARTA PRACY 1)
+
+lp. | wersja HTML | Element |             Zamiennik             |
+1.   HTML 4.01      FONT       CSS:color, font family, font size 
+2.   HTML 4.01      STRIKE     CSS: text-decoration
+3.   HTML 4.01      S          CSS: text-decoration
+4.   HTML 4.01      U          CSS: text-decoration
+5.   HTML 4.01      DIR        UL
+6.   HTML 4.01      CENTER     CSS: text:align
+7.   HTML 4.01      APPLET     OBJECT
+8.   HTML 4.01      ISINDEX    INPUT
+9.   HTML 4.01      MENU       UL
+10.  HTML 4.01      BASEFONT   CSS:color, font family, font size
+
+Zadanie 2 (KARTA PRACY 1)
+- W HTML 5.0 można tworzyć proste skrypty oparte na gotowych tagach (nie musimy do wielu rzeczy 
+stosować JS) a w wersji 4.01 nie 
+- HTML 5.0 został stworzony przez dwa zespoły – W3C i WHATWG lecz wersja 4.01 nie
+-Wersja 5.0 upraszcza zapis znaczników językowych (obecnie wystarczy zapis: <meta charset=”UTF-8″ />,
+ wcześniejszy w wersji 4.01 zapis wyglądał następująco: <meta http-equiv=”content-type”
+ content=”text/html;charset=UTF-8″ />)
+
+Zadanie 3 (KARTA PRACY 1)
+HTML 4.0 - https://www.w3.org/TR/html4/
+HTML 4.01 -https://www.w3.org/TR/html401/
+HTML 5.0 - https://dev.w3.org/html5/spec-LC/
+
+Zadanie 1 (PRZED SPRAWDŹ SWOJE UMIEJĘTNOŚCI)
+
+Witryna internetowa - Cyfrowa platforma, która umożliwia prezentację informacji, 
+treści, produktów lub usług w przestrzeni online. Stanowi ona interaktywną bramę, 
+poprzez którą użytkownicy mogą uzyskać dostęp do treści, komunikować się oraz wykonywać 
+różnorodne czynności. PRZYKŁAD: uniqueseo.pl
+Portal internetowy - Witryna internetowa zawierająca usługi stanowiące „bramę” do Internetu . 
+Serwis informacyjny zazwyczaj poszerzony jest o różnorodne funkcje internetowe. 
+Portale często oferują darmowe usługi, np. pocztę elektroniczną, czy hosting. PRZYKŁAD : onet.pl
+Sklep internetowy - Oferują możliwość dokonywania zakupów poprzez internet PRZYKŁAD: x-kom.pl
+Blog tekstowy - Strona na której autor może podzielić się swoim doświadczeniem, przeżyciami w sposób
+tekstowy PRZYKŁAD: onebighappylife.com
+Wideoblog - Rodzaj bloga internetowego, który zamiast postów tekstowych posługuje się materiałem 
+filmowym. PRZYKŁAD: youtube.com
+
+Zadanie 2 (SPRAWDŹ SWOJE UMIEJĘTNOŚCI)
+-Portal internetowy ponieważ zajmuje się określoną tematyką 
+
+Zadanie 3 (SPRAWDŹ SWOJE UMIEJĘTNOŚCI)
+1.Poprawne 
+2.Błędne 
+3.Poprawne 
+4.Poprawne 
+5.Błędne 
+
+Zadanie 4 (SPRAWDŹ SWOJE UMIEJĘTNOŚCI)
+rok 1995 HTML 2.0 pierwszy raz został wydany HTML
+rok 1996 HTML 3.2 zwiększona ilość atrybutów w HTML
+rok 1997 HTML 4.0 obsługa wielu skryptów 
+rok 2000 HTML 5.0 dodanie znaczników multimedialnych
+
+PODSUMOWANIE :
+
+Zadanie 1
+A
+Zadanie 2
+A
+Zadanie 3
+C
+Zadanie 4
+C
+Zadanie 5
+A
+ZADANIE EGZAMINACYJNE :
+
+|    NAZWA    |    OPIS                                                                    |                                        ZASTOSOWANIE                             |
+  HTML         Język znaczników który jest podstawowym elementem każdej strony internetowej  Tworzenie wszystkich składni do stron inetrnetowych
+
+  MySQL         System zarządzania relacyjnymi bazami danych                                  Tworzy relacje i bazy danych potrzebne do szybkiego wyszukiwania na stronie 
+
+  CSS           Język stylów który służy do okteślania wyglądu strony internetowej            Pomaga utworzyć wygląd strony  
