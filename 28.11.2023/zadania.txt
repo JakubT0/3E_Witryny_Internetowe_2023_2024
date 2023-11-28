@@ -1,0 +1,33 @@
+Karta pracy 1
+Tabelka 
+
+<body> - znacznik body jest miejscem w kodzie HTML do którego trafiają wszystkie elementy 
+które mają zostać wyświetlone na stronie
+<ul> - znacznik ul definiuje nieuporządkowaną (wypunktowaną) listę
+<li> - znacznik li określa element listy
+<ol> - znacznik ol reprezentuje uporządkowaną listę elementów na stronie internetowe
+
+Zadanie 1
+jest w folderze 
+
+Zadanie 3
+Znacznik     Atrybut		Wartość Atrybutu
+<a>	      href		URL lub ścieżka do docelowego zasobu
+<font>	      color		Kolor tekstu
+<p>	      align		left, right, center, justify (do wyrównywania tekstu)
+<meta>	      charset		Określa zestaw znaków dokumentu (np. "UTF-8")
+<body>	      bgcolor		Kolor tła strony
+
+
+
+Podsumowanie 
+Zad 1
+A
+Zad 2
+C
+Zad 3
+B
+Zad 4
+A
+Zad 5
+A
