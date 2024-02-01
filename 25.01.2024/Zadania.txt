@@ -1,0 +1,61 @@
+ZADANIE 5
+NAZWA ATRYBUTU                   ZASTOSOWANIE                                            ZNACZNIK 
+type="sumbit"                    Pole tworzące przycisk do wysyłania danych              <input>
+scrollig="no/yes/auto"           Ustawianie suwaków do przewijania                       <frame>
+id="header"                      Identyfikator elementu                                  <div>
+type="text"                      Pole tekstowe                                           <input>
+cellspacing="x"                  Rozmiar odstępów między komórkami                       <table>
+maxlength="x"                    Maksymalna liczba znaków                                <input>
+
+
+
+
+ZADANIE 6
+
+NAZWA WARTOŚCI                             OPIS
+<input type="button">                      definiuje klikalny przycisk
+
+
+<input type="color">                       elementy typu color zapewniają element interfejsu
+                                           który pozwala użytkownikowi określić kolor za pomocą wizualnego próbnika kolorów 
+
+
+
+<input type="date">                        definiuje selektor dat Wynikowa wartość obejmuje rok, miesiąc i dzień
+
+
+
+<input type="datetime">                    elementy tyou datetime-local tworzą kontrolki wejściowe które pozwalają użytkownikowi 
+                                           łatwo wprowadzić zarówno datę jak i godzinę łącznie z rokiem 
+ 
+
+
+<input type="month">                      elementy tyou miesiąc tworzą pola wejściowe które pozwalają użytkownikowi wprowadzić miesiąc
+
+
+
+
+PODSUMOWANIE
+
+zad1
+D
+zad2
+B
+zad3
+B
+zad4
+B
+zad5
+C
+
+
+
+
+
+
+
+
+
+
+
+__________________________________________________________________________________
